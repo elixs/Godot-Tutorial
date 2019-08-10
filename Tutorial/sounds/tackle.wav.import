@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/tackle.wav-05b61487a92362fc2481fb129aef3d61.sample"
+
+[deps]
+
+source_file="res://sounds/tackle.wav"
+dest_files=[ "res://.import/tackle.wav-05b61487a92362fc2481fb129aef3d61.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0
